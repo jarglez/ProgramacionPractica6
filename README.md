@@ -6,7 +6,7 @@ Matrícula: 255813
 
 El presente Notebook fue relizado en equipo local con Kernel Python 3.11.8 en VS Code.
 
-## Instrucciones
+## Instrucciones de uso
 
 Este notebook puede extraer datos del Titanic en el archivo ```Titanic-Dataset.csv```, para analizar la información presente.
 
